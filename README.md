@@ -44,7 +44,6 @@
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-shahare)  
 - 📧 Email: *sahilshahare380@gmail.com*  
-- 🐙 [GitHub](https://github.com/sahil-shahare)  
 
 ---
 

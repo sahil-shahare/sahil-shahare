@@ -15,9 +15,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Java, Python, C, SQL  
-- **Frameworks & Tools**: Flask, TensorFlow/Keras, PyTorch, Git/GitHub  
-- **Databases**: MySQL, SQLite  
+- **Languages**: Java, SQL  
+- **Frameworks & Tools**: Git/GitHub  
+- **Databases**: MySQL, Mongodb 
 - **Other**: Data Structures & Algorithms, Computer System Security  
 
 ---

@@ -1,6 +1,5 @@
 # Hi there, I'm Sahil Shahare 👋
-
-🎓 Computer Science Engineering Graduate (Class of 2025)  
+ 
 💻 Passionate about Software Development, Machine Learning & Cybersecurity  
 🚀 Actively preparing for off-campus placements  
 

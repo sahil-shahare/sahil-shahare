@@ -26,6 +26,9 @@
 - 🔬 **[FakeVision - Deepfake Detection](https://github.com/sahil-shahare/Fake-vision-using-Machine-learning-for-deepfake-detection)**  
   Detects manipulated images/videos using **EfficientNet + Flask Web App**.  
 
+- 📊 **[Financial Planning Calculator](https://financial-planning-calculator.onrender.com/)**  
+  A web-based tool to calculate **SIP, SWP, and investment growth** with interactive **Chart.js visualizations**.  
+
 - 📚 **[JAVA DSA Practice](https://github.com/sahil-shahare/JAVA_DSA_AC)**  
   A collection of solved problems and implementations in **Java**.  
 

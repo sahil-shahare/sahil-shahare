@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Projects
-- 🔬 **[FakeVision - Deepfake Detection]([https://github.com/sahil-shahare/Fake-vision-using-Machine-learning-for-deepfake-detection](https://fake-vision-ml-powered-deepfake-detection.onrender.com/))**  
+- 🔬 **[FakeVision - Deepfake Detection](https://fake-vision-ml-powered-deepfake-detection.onrender.com/)**  
   Detects manipulated images/videos using **EfficientNet + Flask Web App**.  
 
 - 📊 **[Financial Planning Calculator](https://financial-planning-calculator.onrender.com/)**  

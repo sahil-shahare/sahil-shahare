@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Shahare 👋
  
-💻 Passionate about Software Development, Machine Learning & Cybersecurity  
+💻 Passionate about Software Development & Cybersecurity  
 🚀 Actively preparing for off-campus placements  
 
 ---

@@ -6,23 +6,26 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔍 Enthusiastic learner in **Software Development, Machine Learning, and Cybersecurity**.  
+- 🔍 Enthusiastic learner in **FullStack Software Development, Machine Learning, and Cybersecurity**.  
 - 🛠️ Built projects like a **Deepfake Detection System** (Flask + EfficientNet).  
-- 📊 Skilled in **Data Structures, Algorithms, SQL, and System Security**.  
+- 📊 Skilled in **Data Structures, Algorithms, SQL, MERN Stack and System Security**.  
 - 🌱 Currently sharpening my **problem-solving & interview preparation skills**.  
 - 🎯 Career Goal: To contribute as a **Software Engineer / Data Engineer / Security Analyst** and grow with impactful projects.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Java, SQL  
-- **Frameworks & Tools**: Git/GitHub  
+- **Languages**: Java, SQL, Javascript 
+- **Frameworks & Tools**: Git/GitHub, Spring Boot 
 - **Databases**: MySQL, Mongodb 
-- **Other**: Data Structures & Algorithms, Computer System Security  
+- **Other**: Data Structures & Algorithms 
 
 ---
 
 ## 📌 Projects
+- 🔬 **[Student Grader](https://github.com/sahil-shahare/Studentgrader)**  
+  Backend-based Student Grading System using **Java | Spring Boot | REST APIs | Maven | MySQL | JDBC**. 
+
 - 🔬 **[FakeVision - Deepfake Detection](https://fake-vision-ml-powered-deepfake-detection.onrender.com/)**  
   Detects manipulated images/videos using **EfficientNet + Flask Web App**.  
 
@@ -41,6 +44,17 @@
 - Practicing **Aptitude & Coding** for off-campus interviews.  
 - Enhancing **SQL, Database Design, and System Security** skills.  
 - Building **real-world projects** to strengthen my portfolio.  
+
+---
+
+## 📜 Certifications & Research Paper
+
+- Deloitte Technology Job Simulation
+- Alpha DSA with Java – Apna College
+- HackerRank SQL Certification
+- HackerRank Java Certification
+- Introduction to API **(Copyright)**
+- A CNN-LSTM hybrid model for machine learning-based deepfake identification **(Research Paper)**
 
 ---
 
@@ -65,3 +79,4 @@
 ---
 
 ⭐️ *“Keep learning, keep building, and stay curious.”*
+⭐ _If you like my work, feel free to star my repositories!_

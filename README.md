@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 - 🔍 Enthusiastic learner in **FullStack Software Development, Machine Learning, and Cybersecurity**.  
-- 🛠️ Built projects like a **Deepfake Detection System** `(Flask + EfficientNet)`.  
+- 🛠️ Built projects like a **Deepfake Detection System** (Flask + EfficientNet).  
 - 📊 Skilled in **Data Structures, Algorithms, SQL, MERN Stack and System Security**.  
 - 🌱 Currently sharpening my **problem-solving & interview preparation skills**.  
 - 🎯 Career Goal: To contribute as a **Software Engineer / Data Engineer / Security Analyst** and grow with impactful projects.  

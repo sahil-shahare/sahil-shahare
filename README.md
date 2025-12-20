@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Java, SQL, Javascript 
+- **Programming Languages**: Java, SQL, Javascript 
 - **Frameworks & Tools**: Git/GitHub, Spring Boot 
 - **Databases**: MySQL, Mongodb 
 - **Other**: Data Structures & Algorithms 
@@ -24,16 +24,16 @@
 
 ## 📌 Projects
 - 🔬 **[Student Grader](https://github.com/sahil-shahare/Studentgrader)**  
-  Backend-based Student Grading System using **Java | Spring Boot | REST APIs | Maven | MySQL | JDBC**. 
+  Backend-based Student Grading System using **`Java | Spring Boot | REST APIs | Maven | MySQL | JDBC`**. 
 
 - 🔬 **[FakeVision - Deepfake Detection](https://fake-vision-ml-powered-deepfake-detection.onrender.com/)**  
   Detects manipulated images/videos using **EfficientNet + Flask Web App**.  
 
 - 📊 **[Financial Planning Calculator](https://financial-planning-calculator.onrender.com/)**  
-  A web-based tool to calculate **SIP, SWP, and investment growth** with interactive **Chart.js visualizations**.  
+  A web-based tool to calculate **SIP, SWP, and investment growth** with interactive **`Chart.js visualizations`**.  
 
 - 📚 **[JAVA DSA Practice](https://github.com/sahil-shahare/JAVA_DSA_AC)**  
-  A collection of solved problems and implementations in **Java**.  
+  A collection of solved problems and implementations in **`Java`**.  
 
 - 🌐 **[Web Projects](https://github.com/sahil-shahare/WEB_PROJECT)**  
   Simple and creative web-based applications.  

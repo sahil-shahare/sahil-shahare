@@ -44,6 +44,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-shahare&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-shahare&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-shahare)
 - 🌐 [Website](https://sahil-shahare.onrender.com)

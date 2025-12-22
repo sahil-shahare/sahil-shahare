@@ -30,11 +30,7 @@
   Backend-based Student Grading System using **`Java | Spring Boot | REST APIs | Maven | MySQL | JDBC`**.
 
 - 🔬 **[FakeVision - Deepfake Detection](https://fake-vision-ml-powered-deepfake-detection.onrender.com/)**  
-<<<<<<< HEAD
   Detects manipulated images/videos using **EfficientNet + Flask Web App**.
-=======
-  Detects manipulated images/videos using **`EfficientNet + Flask Web App`**.  
->>>>>>> refs/remotes/origin/main
 
 - 📊 **[Financial Planning Calculator](https://financial-planning-calculator.onrender.com/)**  
   A web-based tool to calculate **SIP, SWP, and investment growth** with interactive **`Chart.js visualizations`**.
@@ -88,9 +84,5 @@
 
 ---
 
-<<<<<<< HEAD
 ⭐️ _“Keep learning, keep building, and stay curious.”_
-=======
-⭐️ *“Keep learning, keep building, and stay curious.”*
->>>>>>> refs/remotes/origin/main
 ⭐ _If you like my work, feel free to star my repositories!_

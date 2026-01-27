@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: Java, SQL, Javascript
-- **Frameworks & Tools**: Git/GitHub, Spring Boot
+- **Frameworks & Tools**: Git/GitHub, Spring Boot, Postman
 - **Databases**: MySQL, Mongodb
 - **Other**: Data Structures & Algorithms
 

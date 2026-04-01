@@ -53,7 +53,7 @@
 
 ## 📜 Certifications & Research Paper
 
-- 
+- Oracle Java Foundations
 - Deloitte Technology Job Simulation
 - Alpha DSA with Java – Apna College
 - HackerRank SQL Certification
